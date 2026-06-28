@@ -45,6 +45,10 @@ npm run dev
 
 ---
 
+Open https://ecommerce-website-puce-sigma.vercel.app/ in your browser to view the project.
+
+---
+
 ## 💡 Learning Outcomes
 - Improved understanding of React Hooks (useState, useContext)
 - Hands-on experience with API integration
@@ -53,13 +57,14 @@ npm run dev
 
 ---
 
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
 ---
 
-Open https://ecommerce-website-puce-sigma.vercel.app/ in your browser to view the project.
+
 
 
 
