@@ -45,7 +45,10 @@ npm run dev
 
 ---
 
-Open https://ecommerce-website-puce-sigma.vercel.app/ in your browser to view the project.
+🌐 Live Demo
+
+👉 https://ecommerce-website-puce-sigma.vercel.app/
+
 
 ---
 
